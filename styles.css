@@ -1,0 +1,28 @@
+#header{
+    background-color: hsl(131, 96%, 48%);
+}
+body{
+    background: blueviolet;
+}
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 30%;
+    background-color: #fdaa42;
+}
+#main{
+    flex:65%;
+    background-color: #f7db8c;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    position: relative;
+
+}
